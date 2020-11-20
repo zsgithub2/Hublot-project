@@ -12,8 +12,8 @@
 * [About the Project](#about-the-project)
 * [Roadmap](#Roadmap)
 * [Progression report](#Tasks)
-  * [Week1](#Week-1)
-  * [Week2](#Week-2)
+  * [Week 1](#Week-1)
+  * [Week 2](#Week-2)
 * [Results](#Results)
 
 
