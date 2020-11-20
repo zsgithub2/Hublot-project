@@ -11,7 +11,7 @@
 
 * [About the Project](#about-the-project)
 * [Roadmap](#Roadmap)
-* [Tasks](#Tasks)
+* [Progression report](#Tasks)
   * [Week1](#Week 1)
   * [Week2](#Week 2)
 
@@ -24,8 +24,8 @@
 <!-- Roadmap -->
 ## Roadmap
 
-<!-- Tasks -->
-## Tasks 
+<!-- Progression report -->
+## Progression report 
 
 ### Week 1
 
