@@ -33,7 +33,12 @@ Our objective is to get the best prediction score (accuracy).
 ## Progression report 
 
 ### Week 1
-
+** Github ** 
+- Repo initialisation
+- Readme.md creation
+ ** Data ** 
+- Brainstorming
+- First analysis and submission
 ### Week 2
 
 <!-- Results -->
