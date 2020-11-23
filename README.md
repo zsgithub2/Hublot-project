@@ -48,8 +48,8 @@ Our objective is to get the best prediction score (accuracy).
 - Readme.md update
 
  **Data** 
-- Text analysis and pre-processing
-- Adjustment to the classifier and submission
+- Text analysis and pre-processing: remove stopwords, lemmatize, punctuation
+- Adjustment to the classifier using logistic regression
 
 ### Week 2
 
@@ -61,7 +61,9 @@ COMING SOON
 
 <!-- Results -->
 ## Results 
+In this section we report the results of our submissions on the [AI CROWD DMML COMPETITION](https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course/leaderboards).
 
 ### Week 1
-
+Accuracy score =  0.81
 ### Week 2
+Accuracy score =  0.823
