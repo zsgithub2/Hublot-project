@@ -15,6 +15,9 @@
 * [Progression report](#Tasks)
   * [Week 1](#Week-1)
   * [Week 2](#Week-2)
+  * [Week 3](#Week-3)
+  * [Week 4](#Week-4)
+  * [Week 5](#Week-5)
 * [Results](#Results)
 
 
@@ -37,6 +40,7 @@ Our objective is to get the best prediction score (accuracy).
 **Github** 
 - Repo initialisation
 - Readme.md creation
+- Data upload
 
  **Data** 
 - Brainstorming, tasks repartition within the team
@@ -51,13 +55,25 @@ Our objective is to get the best prediction score (accuracy).
 - Text analysis and pre-processing: remove stopwords, lemmatize, punctuation
 - Adjustment to the classifier using logistic regression
 
-### Week 2
+### Week 3
 
 **Github**
 - Readme.md update
 
  **Data** 
-COMING SOON
+- Exploratory data analysis to help improve the text cleaning
+- Feature engineering and hyper parameter tuning
+- Classifier comparison: Linear SVM, Logistic regression (with and without Cross validation), Random Forest, Decision Tree, Gradient Boosting Classifier
+
+### Week 4
+
+**Github**
+- Readme.md update
+
+ **Data** 
+- More EDA
+- Further engineering
+- Classifier comparison and improvement
 
 <!-- Results -->
 ## Results 
@@ -67,3 +83,7 @@ In this section we report the results of our submissions on the [AI CROWD DMML C
 Accuracy score =  0.81
 ### Week 2
 Accuracy score =  0.823
+### Week 3
+Accuracy score =  0.823
+### Week 4
+We got better results in our training set but the final accuracy score stayed 0.823
