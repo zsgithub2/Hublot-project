@@ -75,6 +75,11 @@ Our objective is to get the best prediction score (accuracy).
 - Further engineering
 - Classifier comparison and improvement
 
+ **Project submission** 
+ - Final notebook preparation with the different things required
+ 
+ ### Week 5 (Final week)
+Coming Soon
 <!-- Results -->
 ## Results 
 In this section we report the results of our submissions on the [AI CROWD DMML COMPETITION](https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course/leaderboards).
