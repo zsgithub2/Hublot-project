@@ -63,7 +63,7 @@ Our objective is to get the best prediction score (accuracy).
  **Data** 
 - Exploratory data analysis to help improve the text cleaning
 - Feature engineering and hyper parameter tuning
-- Classifier comparison: Linear SVM, Logistic regression (with and without Cross validation), Random Forest, Decision Tree, Gradient Boosting Classifier
+- Classifier comparison: Logistic regression (with and without Cross validation), Random Forest, Decision Tree, k-Nearest Neighbor
 
 ### Week 4
 
