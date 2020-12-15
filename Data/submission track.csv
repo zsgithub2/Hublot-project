@@ -1,0 +1,12 @@
+80/20 test,AI crowd,Technique
+0.794,0.80998,"Text analysis LogRegCV only (random state 72, CV=5) "
+0.8077,0.82311,"Text analysis + LogRegCV + Keywords in Text (random state 72, CV=5)"
+0.8015,0.82137,"Text analysis + LogRegCV + little changes in stopwords + 2 ngrams (random state 72, CV=5)"
+0.809,0.818,"Key, hashtags, 2-ngrams, no cv (random state 72)"
+0.813,0.807,"Key, hashtags, 2-ngrams, no cv (random state 72)"
+0.8,0.815236427,logistic reg + grid search (C= 1.20679) + using text feature + TF IDF  2-gram 
+0.801544402,0.813448,logistic reg + grid search (C= 1.20679) + using key text feature + TF IDF 2-grams
+0.805405405,0.8231177,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams +  basic cleaning only
+0.806177606,NA,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer
+0.807722008,NA ,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer + stopwords optimization
+0.809266409,NA,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer + stopwords optimization
