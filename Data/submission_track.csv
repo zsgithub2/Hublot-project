@@ -7,6 +7,6 @@
 0.8,0.815236427,logistic reg + grid search (C= 1.20679) + using text feature + TF IDF  2-gram 
 0.801544402,0.813448,logistic reg + grid search (C= 1.20679) + using key text feature + TF IDF 2-grams
 0.805405405,0.8231177,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams +  basic cleaning only
-0.806177606,NA,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer
-0.807722008,NA ,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer + stopwords optimization
-0.809266409,NA,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer + stopwords optimization
+0.806177606,,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer
+0.807722008,,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer + stopwords optimization
+0.809266409,,logistic reg + grid search (C= 0.5689866) + using text feature + TF IDF 2-grams + target update + basic cleaning only using spacy tokenizer + stopwords optimization
