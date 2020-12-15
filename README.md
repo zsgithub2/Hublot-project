@@ -76,10 +76,23 @@ Our objective is to get the best prediction score (accuracy).
 - Classifier comparison and improvement
 
  **Project submission** 
- - Final notebook preparation with the different things required
+ - Final notebook preparation with the different elements required
  
  ### Week 5 (Final week)
-Coming Soon
+**Github**
+- Readme.md update and finalisation
+- Upload the final notebook, a file tracking our submissions and the submissions
+
+ **Data** 
+- Further feature engineering
+- Classifier comparison and improvement using different techniques
+
+ **Project submission** 
+ - Project notebook completion: it contains EDA, Text cleaning, Classifier comparison, Hyperparameter tuning and a discussion of the results-
+ - Video preparation
+
+
+
 <!-- Results -->
 ## Results 
 In this section we report the results of our submissions on the [AI CROWD DMML COMPETITION](https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course/leaderboards).
@@ -92,3 +105,11 @@ Accuracy score =  0.823
 Accuracy score =  0.823
 ### Week 4
 We got better results in our training set but the final accuracy score stayed 0.823
+### Week 5
+We tried new techniques that helped us reach our best results so far (0.823). 
+
+### Final
+Best accuracy score = 0.823
+Rank = 3
+
+
