@@ -109,7 +109,7 @@ We got better results in our training set but the final accuracy score stayed 0.
 We tried new techniques that helped us reach our best results so far (0.823). 
 
 ### Final
-Best accuracy score = 0.823
-Rank = 3
+- Best accuracy score = 0.823
+- Rank = 3 (on AI Crowd competition)
 
 
