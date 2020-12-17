@@ -3,9 +3,12 @@
 
 ## Team members
 
-- Aliou BALDE
+- Aliou BALDE 
 - Lorenzo Mezzini
 - Zachary Said
+
+## Video presentation
+https://www.youtube.com/watch?v=EygBMdGmrUk&ab_channel=ZacharySaid2
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -25,12 +28,12 @@
 <!-- About the project-->
 ## About the project
 Twitter is one of the most used Social Media. A lot of information is disseminated everyday. Lately, one can hardly distinguish real news from fake news. 
-This project aims to build Machine Learning model that can predict which tweets are about a real disaster and which are not. 
-The project topic relates to a kaggle competition. We have two datasets (train and test) at our disposal to analyse and make the best prediction possible.
+This project aims to build a Machine Learning model that can predict which tweets are about real disasters and which are not. 
+The project topic relates to a kaggle competition. We have two datasets (a training set and a test set) at our disposal to analyse and make the best prediction possible for the test set.
 
 <!-- Roadmap -->
 ## Roadmap
-We will start by carrying out a basic EDA to get familiar with the data. We will continue by applying text processing techniques to clean the tweets. We will finish by building different classifiers using different methods such as logistic regression, kNN, Decision trees etc. 
+We will start by carrying out basic EDA to get familiar with the data. We will continue by applying text processing techniques to clean the tweets. We will finish by building different classifiers using different methods such as logistic regression, kNN, Decision trees and Random Forest. 
 Our objective is to get the best prediction score (accuracy). 
 <!-- Progression report -->
 ## Progression report 
@@ -112,4 +115,6 @@ We tried new techniques that helped us reach our best results so far (0.823).
 - Best accuracy score = 0.823
 - Rank = 3 (on AI Crowd competition)
 
+### Final
 
+![alt text](https://github.com/zsgithub2/Hublot-project/blob/main/Documents/accuracy%20plot.png?raw=true)
