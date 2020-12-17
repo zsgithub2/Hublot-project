@@ -8,7 +8,7 @@
 - Zachary Said
 
 ## Video presentation
-https://www.youtube.com/watch?v=EygBMdGmrUk&ab_channel=ZacharySaid2
+[![Watch the video](https://img.youtube.com/vi/EygBMdGmrUk/maxresdefault.jpg)](https://www.youtube.com/watch?v=EygBMdGmrUk)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=EygBMdGmrUk&ab_channel=ZacharySaid2
 
 <!-- About the project-->
 ## About the project
-Twitter is one of the most used Social Media. A lot of information is disseminated everyday. Lately, one can hardly distinguish real news from fake news. 
+Twitter is one of the most used Social Media websites. A lot of information is disseminated everyday. Lately, one can hardly distinguish real news from fake news. 
 This project aims to build a Machine Learning model that can predict which tweets are about real disasters and which are not. 
 The project topic relates to a kaggle competition. We have two datasets (a training set and a test set) at our disposal to analyse and make the best prediction possible for the test set.
 
@@ -101,20 +101,29 @@ Our objective is to get the best prediction score (accuracy).
 In this section we report the results of our submissions on the [AI CROWD DMML COMPETITION](https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course/leaderboards).
 
 ### Week 1
-Accuracy score =  0.81
+Best accuracy score =  0.81
+Tokenizer: remove stopwords, lemmatize, bag of words
+CLassifier: Logistic regression
+Parameters: (solver: 'lbfgs', max_iter=1000)
 ### Week 2
-Accuracy score =  0.823
+Best accuracy score =  0.823
+Feature engineering: Concatenate text and keywords into 'key_text' feature
+Tokenizer: remove stopwords, lemmatize, bag of words
+CLassifier: Logistic regressionCV
+Parameters: (solver: 'lbfgs', max_iter=2000, cv=3)
 ### Week 3
-Accuracy score =  0.823
+Best accuracy score =  0.823
+Same as above
 ### Week 4
 We got better results in our training set but the final accuracy score stayed 0.823
 ### Week 5
 We tried new techniques that helped us reach our best results so far (0.823). 
+Correct some target values in the training set
+Improved cleaning to preserve patterns in the data and let the classifier train on these patterns. 
 
 ### Final
 - Best accuracy score = 0.823
 - Rank = 3 (on AI Crowd competition)
 
-### Final
 
 ![alt text](https://github.com/zsgithub2/Hublot-project/blob/main/Documents/accuracy%20plot.png?raw=true)
