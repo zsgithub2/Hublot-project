@@ -107,10 +107,10 @@ Best accuracy score =  0.81
 -Parameters: (solver: 'lbfgs', max_iter=1000)  
 ### Week 2
 Best accuracy score =  0.823  
-Feature engineering: Concatenate text and keywords into 'key_text' feature  
-Tokenizer: remove stopwords, lemmatize, bag of words  
-CLassifier: Logistic regressionCV  
-Parameters: (solver: 'lbfgs', max_iter=2000, cv=3)  
+-Feature engineering: Concatenate text and keywords into 'key_text' feature  
+-Tokenizer: remove stopwords, lemmatize, bag of words  
+-CLassifier: Logistic regressionCV  
+-Parameters: (solver: 'lbfgs', max_iter=2000, cv=3)  
 ### Week 3
 Best accuracy score =  0.823  
 Same as above
@@ -118,8 +118,8 @@ Same as above
 We got better results in our training set but the final accuracy score stayed 0.823  
 ### Week 5
 We tried new techniques that helped us reach our best results so far (0.823).   
-Correct some target values in the training set  
-Improved cleaning to preserve patterns in the data and let the classifier train on these patterns. 
+-Corrected some target values in the training set  
+-Improved cleaning to preserve patterns in the data and let the classifier train on these patterns. 
   
 ### Final
 - Best accuracy score = 0.823
