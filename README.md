@@ -33,7 +33,7 @@ The project topic relates to a kaggle competition. We have two datasets (a train
 
 <!-- Roadmap -->
 ## Roadmap
-We will start by carrying out basic EDA to get familiar with the data. We will continue by applying text processing techniques to clean the tweets. We will finish by building different classifiers using different methods such as logistic regression, kNN, Decision trees and Random Forest. 
+We will start by carrying out basic EDA to get familiar with the data. We will continue by applying text processing techniques to clean the tweets. We will finish by building  classifiers using different methods such as logistic regression, kNN, Decision trees and Random Forest. 
 Our objective is to get the best prediction score (accuracy). 
 <!-- Progression report -->
 ## Progression report 
