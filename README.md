@@ -102,9 +102,9 @@ In this section we report the results of our submissions on the [AI CROWD DMML C
 
 ### Week 1
 Best accuracy score =  0.81
-Tokenizer: remove stopwords, lemmatize, bag of words
-CLassifier: Logistic regression
-Parameters: (solver: 'lbfgs', max_iter=1000)
+-Tokenizer: remove stopwords, lemmatize, bag of words
+-CLassifier: Logistic regression
+-Parameters: (solver: 'lbfgs', max_iter=1000)
 ### Week 2
 Best accuracy score =  0.823
 Feature engineering: Concatenate text and keywords into 'key_text' feature
